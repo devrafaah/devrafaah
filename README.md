@@ -4,8 +4,8 @@
 
 
 <div style="display: inline_block">
-  <img width="45%" height="300em" src="https://github-readme-stats.vercel.app/api?username=devrafaah&show_icons=true&theme=default&bg_color=121212#gh-light-mode-only">
-  <img width="45%" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaah&layout=compact&theme=default&bg_color=121212#gh-light-mode-only">
+  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api?username=devrafaah&show_icons=true&theme=default&bg_color=121212#gh-light-mode-only">
+  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaah&layout=compact&theme=default&bg_color=121212#gh-light-mode-only">
 </div>
 
 
