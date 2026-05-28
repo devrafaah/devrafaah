@@ -1,32 +1,53 @@
-<h2>Hello there, I am Mobile Developer</h2>
+# Olá, sou Rafael — Mobile Developer 👋
 
+![open to work](https://img.shields.io/badge/open%20to%20work-%2300B37E?style=flat-square&logoColor=white)
+![estudando KMP](https://img.shields.io/badge/estudando-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![visitors](https://komarev.com/ghpvc/?username=devrafaah&color=7F52FF&style=flat-square&label=visitas)
 
+<br>
 
+## Sobre
 
-<div style="display: inline_block">
-  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api?username=devrafaah&show_icons=true&theme=default&bg_color=121212#gh-light-mode-only">
-  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaah&hide_progress=false&layout=compact&theme=default&bg_color=121212#gh-light-mode-only">
+Desenvolvedor Mobile Android com foco em Kotlin, Jetpack Compose e Clean Architecture. Apaixonado por construir aplicações que realmente funcionam — do app nativo ao backend serverless.
+
+Atualmente explorando **Kotlin Multiplatform** para levar a lógica de negócio além do Android.
+
+<br>
+
+## Tecnologias
+
+<div>
+  <img alt="Kotlin" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img alt="Android Studio" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img alt="Firebase" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img alt="Git" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Figma" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="HTML5" height="32" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="32" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Tailwind" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Bootstrap" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
+<br>
 
+## Estatísticas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Android Studio" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Kotlin" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Html5" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Css3" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Tailwind" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Bootstrap" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
+<p>
+  <img
+    height="160"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devrafaah&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devrafaah&theme=merko&layout=compact&custom_title=Linguagens&langs_count=9&cache_seconds=86400"
+  />
+</p>
 
-<hr>
+<br>
 
-<div> 
-  <a href="https://br.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## Contato
+
+<a href="https://br.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
