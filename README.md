@@ -7,10 +7,10 @@
 <br>
 
 ## Sobre
-
+<p>
 Desenvolvedor Mobile Android com foco em Kotlin, Jetpack Compose e Clean Architecture. Apaixonado por construir aplicações que realmente funcionam — do app nativo ao backend serverless.
-
 Atualmente explorando **Kotlin Multiplatform** para levar a lógica de negócio além do Android.
+</p>
 
 <br>
 
