@@ -6,15 +6,15 @@
 
 <br>
 
-## Sobre
+## 💻 Sobre
 <p>
-Desenvolvedor Mobile Android com foco em Kotlin, Jetpack Compose e Clean Architecture. Apaixonado por construir aplicações que realmente funcionam — do app nativo ao backend serverless.
-Atualmente explorando **Kotlin Multiplatform** para levar a lógica de negócio além do Android.
+Desenvolvedor Mobile Android com foco em Kotlin, Jetpack Compose e Clean Architecture. Apaixonado por construir aplicações que realmente funcionam do app nativo ao backend.
+Atualmente explorando <b>Kotlin Multiplatform</b> para levar a lógica de negócio além do Android.
 </p>
 
 <br>
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <div>
   <img alt="Kotlin" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -31,22 +31,22 @@ Atualmente explorando **Kotlin Multiplatform** para levar a lógica de negócio 
 
 <br>
 
-## Estatísticas
+## 📊 Estatísticas (Powered by GitHub Stats Extended)
 
 <p>
   <img
     height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devrafaah&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=devrafaah&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
   <img
     height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devrafaah&theme=merko&layout=compact&custom_title=Linguagens&langs_count=9&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devrafaah&theme=merko&layout=compact&custom_title=Linguagens&langs_count=9&cache_seconds=86400"
   />
 </p>
 
 <br>
 
-## Contato
+## 📬 Contato
 
 <a href="https://br.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
