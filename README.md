@@ -36,11 +36,11 @@ Atualmente explorando <b>Kotlin Multiplatform</b> para levar a lógica de negóc
 <p>
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=devrafaah&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=devrafaah&show_icons=true&include_all_commits=true&theme=transparent"
   />
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devrafaah&theme=merko&layout=compact&custom_title=Linguagens&langs_count=9&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=devrafaah&layout=donut&theme=transparent"
   />
 </p>
 
